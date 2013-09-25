@@ -1,0 +1,23 @@
+{
+  "name": "sparkjs-launcher",
+  "version": "0.0.1",
+  "description": "Launcher for sparkjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jaz303/sparkjs-launcher.git"
+  },
+  "keywords": [
+    "live",
+    "coding",
+    "sketch",
+    "processing",
+    "teaching",
+    "environment"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "MIT"
+}
