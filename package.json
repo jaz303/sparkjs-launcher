@@ -1,6 +1,6 @@
 {
   "name": "sparkjs-launcher",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Launcher for sparkjs",
   "main": "index.js",
   "repository": {
