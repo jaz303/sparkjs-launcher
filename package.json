@@ -24,6 +24,9 @@
     "sparkjs": "~0.1.0",
     "nodewebkit": "~0.7.5"
   },
+  "bin": {
+    "sparkjs": "sparkjs"
+  },
   "scripts": {
     "start": "nodewebkit node_modules/sparkjs"
   }
