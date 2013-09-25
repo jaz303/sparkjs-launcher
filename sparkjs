@@ -1,4 +1,6 @@
 #! /usr/bin/env bash
 
-cd ../lib/node_modules/sparkjs-launcher
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+cd ${DIR}/../lib/node_modules/sparkjs-launcher
 ./node_modules/nodewebkit/bin/nodewebkit node_modules/sparkjs
