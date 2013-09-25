@@ -4,6 +4,5 @@
 
 ## Usage
 
-    $ npm install sparkjs-launcher
-    $ cd sparkjs-launcher
-    $ npm start
+    $ npm install sparkjs-launcher -g
+    $ sparkjs
