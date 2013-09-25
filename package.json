@@ -19,5 +19,12 @@
     "environment"
   ],
   "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sparkjs": "~0.1.0",
+    "nodewebkit": "~0.7.5"
+  },
+  "scripts": {
+    "start": "nodewebkit node_modules/sparkjs"
+  }
 }
