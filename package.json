@@ -21,7 +21,7 @@
   "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
   "license": "MIT",
   "dependencies": {
-    "sparkjs": "~0.1.0",
+    "sparkjs": "~0.1.1",
     "nodewebkit": "~0.7.5"
   },
   "bin": {
