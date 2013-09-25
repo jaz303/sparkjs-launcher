@@ -1,3 +1,4 @@
 #! /usr/bin/env bash
 
+cd ../lib/node_modules/sparkjs-launcher
 ./node_modules/nodewebkit/bin/nodewebkit node_modules/sparkjs

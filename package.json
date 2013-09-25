@@ -3,9 +3,6 @@
   "version": "0.1.1",
   "description": "Launcher for sparkjs",
   "main": "index.js",
-  "scripts": {
-    "start": "nodewebkit node_modules/sparkjs"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:jaz303/sparkjs-launcher.git"
